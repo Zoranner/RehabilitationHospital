@@ -1,0 +1,13 @@
+{
+    "name": "com.kimotech.plugin.best-http2",
+    "displayName": "Best HTTP2",
+    "description": "BestHTTP/2 is a HTTP/1.1 and HTTP/2 implementation that supports almost all Unity mobile and standalone platforms (see supported platforms). My goal was to create an easy to use, but still powerful plugin to Unity to take advantage of the potential in HTTP/1.1 and later in HTTP/2.",
+    "version": "2.6.3",
+    "unity": "2019.4",
+    "author": {
+        "name": "KimoTech",
+        "email": "rd@kimo-tech.com"
+    },
+    "license": "MIT",
+    "dependencies": {}
+}
